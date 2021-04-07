@@ -1,0 +1,6 @@
+framework module KWDemoKit {
+  umbrella header "KWDemoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
